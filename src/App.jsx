@@ -1,3 +1,4 @@
+import EventSection from "./components/EventSection"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
 
@@ -8,6 +9,7 @@ function App() {
     <>
     <Header/>
     <Footer/>
+    <EventSection/>
     
     </>
   )
