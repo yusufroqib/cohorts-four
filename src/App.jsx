@@ -1,3 +1,4 @@
+import Feedback from "./components/Feedback"
 import Contact from "./Contact"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
@@ -12,6 +13,7 @@ function App() {
     <Header/>
     <Hero />
     <Footer/>
+    <Feedback/>
     <Contact/>
     <Omooro/>
     
